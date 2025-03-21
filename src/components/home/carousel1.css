@@ -1,0 +1,28 @@
+.carousel-image {
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .small-text {
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .bold-text{
+    font-size: 75px;
+  }
+
+  .shadow-sm{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .shadow-sm:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0,0.2);
+  }

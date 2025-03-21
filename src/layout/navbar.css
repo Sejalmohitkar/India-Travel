@@ -1,0 +1,14 @@
+/* Optional: To implement hover color change if needed */
+.navbar-nav .nav-link:hover {
+    color: #FF4462 !important; /* Lighter shade on hover */
+}
+.my-custom-color {
+    color: #FF4462!important;
+}
+.my-custom-color:hover{
+    color: #BB2D3B !important;
+}
+.nav-bg {
+    background-color: #121415;
+    color: white;
+}

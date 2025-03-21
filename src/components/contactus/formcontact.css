@@ -1,0 +1,9 @@
+.social-icon {
+    transition: color 0.3s ease-in-out, transform 0.3s;
+  }
+  .social-icon:hover {
+    color: #1877F2 !important; /* Facebook Blue */
+  }
+  .social-icon:nth-child(2):hover {
+    color: #E4405F !important; /* Instagram Pink */
+  }
